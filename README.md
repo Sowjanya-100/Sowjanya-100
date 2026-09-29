@@ -1,9 +1,11 @@
 # Hi, I'm Dokkari Sowjanya 👋
 
-### B.Tech Computer Science & Engineering Graduate
+#### B.Tech Computer Science & Engineering Graduate
 
-<small>I’m a Computer Science graduate with an interest in **Data Analytics, Python, AI/ML, Salesforce, and Cloud Technologies**. I enjoy turning ideas into practical projects and continuously improving my technical skills through hands-on development and learning.
-Currently seeking entry-level opportunities where I can apply my technical skills, contribute to real-world projects, and grow as a technology professional.</small>
+I’m a Computer Science graduate with an interest in **Data Analytics, Python, AI/ML, Salesforce, and Cloud Technologies**. I enjoy turning ideas into practical projects and continuously improving my technical skills through hands-on development and learning.
+
+Currently seeking entry-level opportunities where I can apply my technical skills, contribute to real-world projects, and grow as a technology professional.
+
 ---
 
 ## About Me
